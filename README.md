@@ -43,4 +43,4 @@ Menerjemahkan hasil analisis ke dalam bentuk visual yang interaktif menggunakan 
   * *Insight:* Tren tarif bersifat fluktuatif; lonjakan tarif tertinggi justru berpusat pada talenta dengan masa kerja tertentu (seperti 26 dan 39 tahun), membuktikan bahwa portofolio dan keahlian lebih dihargai di pasar global dibanding sekadar faktor masa kerja.
 
 ## 📁 Project Files
-* `Freelancer_Marketplace_Portfolio.xlsx` - File utama Excel yang mencakup Laporan Kualitas Data (*Data Quality Report*), tahapan *Cleaning*, *Pivot Tables*, hingga *Interactive Marketplace Dashboard*.
+* `Freelance_Portfolio.xlsx` - File utama Excel yang mencakup Laporan Kualitas Data (*Data Quality Report*), tahapan *Cleaning*, *Pivot Tables*, hingga *Interactive Marketplace Dashboard*.
